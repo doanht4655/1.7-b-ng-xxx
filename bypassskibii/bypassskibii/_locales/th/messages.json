@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "เอกสาร API/SDK",
+      "title": "เอกสาร API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "ต้องการคีย์ API เพื่อเข้าถึง",
+      "title": "ต้องการคีย์ API เพื่อเข้าถึง"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "ในการเข้าถึงฟีเจอร์นี้ โปรดเพิ่มคีย์ API.",
+      "title": "ในการเข้าถึงฟีเจอร์นี้ โปรดเพิ่มคีย์ API."
+   },
+   "Add_Credit": {
+      "message": "เพิ่มเครดิต",
+      "title": "เพิ่มเครดิต"
+   },
+   "Availability": {
+      "message": "ให้บริการจันทร์-ศุกร์ 9.00–17.00 น. EST",
+      "title": "ให้บริการจันทร์-ศุกร์ 9.00–17.00 น. EST"
+   },
+   "Balance": {
+      "message": "ยอดคงเหลือ",
+      "title": "ยอดคงเหลือ"
+   },
+   "Blacklist": {
+      "message": "รายชื่อดำ",
+      "title": "รายชื่อดำ"
+   },
+   "CaptchaList": {
+      "message": "ผลิตภัณฑ์",
+      "title": "ผลิตภัณฑ์"
+   },
+   "Captcha_Docs": {
+      "message": "เอกสารฉบับสมบูรณ์สำหรับ CAPTCHA ทุกประเภท",
+      "title": "เอกสารฉบับสมบูรณ์สำหรับ CAPTCHA ทุกประเภท"
+   },
+   "Copy": {
+      "message": "คัดลอก",
+      "title": "คัดลอก"
+   },
+   "Docs": {
+      "message": "เอกสาร",
+      "title": "เอกสาร"
+   },
+   "Documentation": {
+      "message": "เอกสาร",
+      "title": "เอกสาร"
+   },
+   "Edit": {
+      "message": "แก้ไข",
+      "title": "แก้ไข"
+   },
+   "Email_Support": {
+      "message": "การสนับสนุนทางอีเมล",
+      "title": "การสนับสนุนทางอีเมล"
+   },
+   "Expired": {
+      "message": "หมดอายุ",
+      "title": "หมดอายุ"
+   },
+   "Export_json": {
+      "message": "ส่งออก JSON",
+      "title": "ส่งออก JSON"
+   },
+   "Get_API_Key": {
+      "message": "ขอคีย์ API",
+      "title": "ขอคีย์ API"
+   },
+   "Guidence": {
+      "message": "คู่มือและข้อมูลอ้างอิง API",
+      "title": "คู่มือและข้อมูลอ้างอิง API"
+   },
+   "Hide": {
+      "message": "ซ่อน",
+      "title": "ซ่อน"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "ยอดคงเหลือในคีย์ API ไม่เพียงพอ",
+      "title": "ยอดคงเหลือในคีย์ API ไม่เพียงพอ"
+   },
+   "Invalid_API_Key": {
+      "message": "คีย์ API ไม่ถูกต้อง",
+      "title": "คีย์ API ไม่ถูกต้อง"
+   },
+   "Join_community": {
+      "message": "เข้าร่วมชุมชนของเรา",
+      "title": "เข้าร่วมชุมชนของเรา"
+   },
+   "Live_chat": {
+      "message": "แชทสด",
+      "title": "แชทสด"
+   },
+   "Menu": {
+      "message": "เมนู",
+      "title": "เมนู"
+   },
+   "Method_Switch": {
+      "message": "สลับวิธี",
+      "title": "สลับวิธี"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "ตัวแก้ไขเฉพาะสำหรับความท้าทาย BLS",
+      "title": "ตัวแก้ไขเฉพาะสำหรับความท้าทาย BLS"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "การแก้ไข CAPTCHA ด้วย AI ขั้นสูง",
+      "title": "การแก้ไข CAPTCHA ด้วย AI ขั้นสูง"
+   },
+   "Our_products": {
+      "message": "ผลิตภัณฑ์ของเรา",
+      "title": "ผลิตภัณฑ์ของเรา"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "กรุณาให้คีย์ API ที่ถูกต้องเพื่อดำเนินการต่อ",
+      "title": "กรุณาให้คีย์ API ที่ถูกต้องเพื่อดำเนินการต่อ"
+   },
+   "Pricing": {
+      "message": "ราคา",
+      "title": "ราคา"
+   },
+   "PrivacyPolicy": {
+      "message": "นโยบายความเป็นส่วนตัว",
+      "title": "นโยบายความเป็นส่วนตัว"
+   },
+   "Products": {
+      "message": "ผลิตภัณฑ์",
+      "title": "ผลิตภัณฑ์"
+   },
+   "Remove": {
+      "message": "ลบ",
+      "title": "ลบ"
+   },
+   "Reset": {
+      "message": "รีเซ็ต",
+      "title": "รีเซ็ต"
+   },
+   "Save": {
+      "message": "บันทึก",
+      "title": "บันทึก"
+   },
+   "Settings": {
+      "message": "การตั้งค่า",
+      "title": "การตั้งค่า"
+   },
+   "Show": {
+      "message": "แสดง",
+      "title": "แสดง"
+   },
+   "Social": {
+      "message": "โซเชียล",
+      "title": "โซเชียล"
+   },
+   "Start_chat": {
+      "message": "เริ่มแชท",
+      "title": "เริ่มแชท"
+   },
+   "Support": {
+      "message": "สนับสนุน",
+      "title": "สนับสนุน"
+   },
+   "Support_Nocap": {
+      "message": "การสนับสนุน",
+      "title": "การสนับสนุน"
+   },
+   "Support_Option": {
+      "message": "ตัวเลือกการสนับสนุน",
+      "title": "ตัวเลือกการสนับสนุน"
+   },
+   "Team_help": {
+      "message": "ขอความช่วยเหลือโดยตรงจากทีมของเรา",
+      "title": "ขอความช่วยเหลือโดยตรงจากทีมของเรา"
+   },
+   "Terms": {
+      "message": "ข้อกำหนด",
+      "title": "ข้อกำหนด"
+   },
+   "Toggle": {
+      "message": "เปิด/ปิด",
+      "title": "เปิด/ปิด"
+   },
+   "Upcoming": {
+      "message": "ที่จะมาถึง",
+      "title": "ที่จะมาถึง"
+   },
+   "View_Details": {
+      "message": "ดูรายละเอียด",
+      "title": "ดูรายละเอียด"
+   }
+}

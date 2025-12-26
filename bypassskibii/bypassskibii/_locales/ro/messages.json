@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "Documentație API/SDK",
+      "title": "Documentație API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "Cheie API necesară pentru acces",
+      "title": "Cheie API necesară pentru acces"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Adăugați o cheie API pentru a accesa.",
+      "title": "Adăugați o cheie API pentru a accesa."
+   },
+   "Add_Credit": {
+      "message": "Adaugă credit",
+      "title": "Adaugă credit"
+   },
+   "Availability": {
+      "message": "Disponibil de luni până vineri, 9:00–17:00 EST",
+      "title": "Disponibil de luni până vineri, 9:00–17:00 EST"
+   },
+   "Balance": {
+      "message": "Sold",
+      "title": "Sold"
+   },
+   "Blacklist": {
+      "message": "Listă neagră",
+      "title": "Listă neagră"
+   },
+   "CaptchaList": {
+      "message": "Produse",
+      "title": "Produse"
+   },
+   "Captcha_Docs": {
+      "message": "Documentație cuprinzătoare pentru toate tipurile de CAPTCHA",
+      "title": "Documentație cuprinzătoare pentru toate tipurile de CAPTCHA"
+   },
+   "Copy": {
+      "message": "Copiază",
+      "title": "Copiază"
+   },
+   "Docs": {
+      "message": "Documente",
+      "title": "Documente"
+   },
+   "Documentation": {
+      "message": "Documentație",
+      "title": "Documentație"
+   },
+   "Edit": {
+      "message": "Editează",
+      "title": "Editează"
+   },
+   "Email_Support": {
+      "message": "Asistență prin e-mail",
+      "title": "Asistență prin e-mail"
+   },
+   "Expired": {
+      "message": "Expirat",
+      "title": "Expirat"
+   },
+   "Export_json": {
+      "message": "Exportă JSON",
+      "title": "Exportă JSON"
+   },
+   "Get_API_Key": {
+      "message": "Obține cheia",
+      "title": "Obține cheia"
+   },
+   "Guidence": {
+      "message": "Ghiduri și referințe API",
+      "title": "Ghiduri și referințe API"
+   },
+   "Hide": {
+      "message": "Ascunde",
+      "title": "Ascunde"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Sold insuficient pentru cheia API",
+      "title": "Sold insuficient pentru cheia API"
+   },
+   "Invalid_API_Key": {
+      "message": "Cheie API invalidă",
+      "title": "Cheie API invalidă"
+   },
+   "Join_community": {
+      "message": "Alăturați-vă comunității noastre",
+      "title": "Alăturați-vă comunității noastre"
+   },
+   "Live_chat": {
+      "message": "Chat live",
+      "title": "Chat live"
+   },
+   "Menu": {
+      "message": "meniul",
+      "title": "meniul"
+   },
+   "Method_Switch": {
+      "message": "schimbare metodă",
+      "title": "schimbare metodă"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Soluție specializată pentru provocările BLS",
+      "title": "Soluție specializată pentru provocările BLS"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Soluție CAPTCHA avansată bazată pe AI",
+      "title": "Soluție CAPTCHA avansată bazată pe AI"
+   },
+   "Our_products": {
+      "message": "Produsele noastre",
+      "title": "Produsele noastre"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Furnizați o cheie API validă pentru a continua.",
+      "title": "Furnizați o cheie API validă pentru a continua."
+   },
+   "Pricing": {
+      "message": "Prețuri",
+      "title": "Prețuri"
+   },
+   "PrivacyPolicy": {
+      "message": "Confidențialitate",
+      "title": "Confidențialitate"
+   },
+   "Products": {
+      "message": "Produse",
+      "title": "Produse"
+   },
+   "Remove": {
+      "message": "Elimină",
+      "title": "Elimină"
+   },
+   "Reset": {
+      "message": "Resetează",
+      "title": "Resetează"
+   },
+   "Save": {
+      "message": "Salvează",
+      "title": "Salvează"
+   },
+   "Settings": {
+      "message": "Setări",
+      "title": "Setări"
+   },
+   "Show": {
+      "message": "Afișează",
+      "title": "Afișează"
+   },
+   "Social": {
+      "message": "Social",
+      "title": "Social"
+   },
+   "Start_chat": {
+      "message": "Începeți chatul",
+      "title": "Începeți chatul"
+   },
+   "Support": {
+      "message": "asistență",
+      "title": "asistență"
+   },
+   "Support_Nocap": {
+      "message": "Suport",
+      "title": "Suport"
+   },
+   "Support_Option": {
+      "message": "Opțiuni de asistență",
+      "title": "Opțiuni de asistență"
+   },
+   "Team_help": {
+      "message": "Obțineți ajutor direct de la echipa noastră",
+      "title": "Obțineți ajutor direct de la echipa noastră"
+   },
+   "Terms": {
+      "message": "Termeni",
+      "title": "Termeni"
+   },
+   "Toggle": {
+      "message": "pornit/oprit",
+      "title": "pornit/oprit"
+   },
+   "Upcoming": {
+      "message": "Următor",
+      "title": "Următor"
+   },
+   "View_Details": {
+      "message": "Vezi detalii",
+      "title": "Vezi detalii"
+   }
+}

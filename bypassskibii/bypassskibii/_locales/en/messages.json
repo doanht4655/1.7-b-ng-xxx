@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API/SDK Documentation",
+      "title": "API/SDK Documentation"
+   },
+   "API_Key_Required": {
+      "message": "API key required for access",
+      "title": "API key required for access"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "For access, add API key.",
+      "title": "For access, add API key."
+   },
+   "Add_Credit": {
+      "message": "Add Credit",
+      "title": "Add Credit"
+   },
+   "Availability": {
+      "message": "Available Mon-Fri, 9am-5pm EST",
+      "title": "Available Mon-Fri, 9am-5pm EST"
+   },
+   "Balance": {
+      "message": "Balance",
+      "title": "Balance"
+   },
+   "Blacklist": {
+      "message": "Blacklist",
+      "title": "Blacklist"
+   },
+   "CaptchaList": {
+      "message": "Products",
+      "title": "Products"
+   },
+   "Captcha_Docs": {
+      "message": "Comprehensive docs for all captcha types",
+      "title": "Comprehensive docs for all captcha types"
+   },
+   "Copy": {
+      "message": "Copy",
+      "title": "Copy"
+   },
+   "Docs": {
+      "message": "Docs",
+      "title": "Docs"
+   },
+   "Documentation": {
+      "message": "Documentation",
+      "title": "Documentation"
+   },
+   "Edit": {
+      "message": "Edit",
+      "title": "Edit"
+   },
+   "Email_Support": {
+      "message": "Email Support",
+      "title": "Email Support"
+   },
+   "Expired": {
+      "message": "Expired",
+      "title": "Expired"
+   },
+   "Export_json": {
+      "message": "Export json",
+      "title": "Export json"
+   },
+   "Get_API_Key": {
+      "message": "Get API Key",
+      "title": "Get API Key"
+   },
+   "Guidence": {
+      "message": "Guides and API references",
+      "title": "Guides and API references"
+   },
+   "Hide": {
+      "message": "Hide",
+      "title": "Hide"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Insufficient Balance",
+      "title": "Insufficient Balance"
+   },
+   "Invalid_API_Key": {
+      "message": "Invalid API Key",
+      "title": "Invalid API Key"
+   },
+   "Join_community": {
+      "message": "Join Our Community",
+      "title": "Join Our Community"
+   },
+   "Live_chat": {
+      "message": "Live Chat",
+      "title": "Live Chat"
+   },
+   "Menu": {
+      "message": "Menu",
+      "title": "Menu"
+   },
+   "Method_Switch": {
+      "message": "method switch",
+      "title": "method switch"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Specialized solver for BLS challenges",
+      "title": "Specialized solver for BLS challenges"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Advanced AI-powered captcha solving",
+      "title": "Advanced AI-powered captcha solving"
+   },
+   "Our_products": {
+      "message": "Our Products",
+      "title": "Our Products"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Please provide a valid API Key to continue",
+      "title": "Please provide a valid API Key to continue"
+   },
+   "Pricing": {
+      "message": "Pricing",
+      "title": "Pricing"
+   },
+   "PrivacyPolicy": {
+      "message": "Privacy",
+      "title": "Privacy"
+   },
+   "Products": {
+      "message": "Products",
+      "title": "Products"
+   },
+   "Remove": {
+      "message": "Remove",
+      "title": "Remove"
+   },
+   "Reset": {
+      "message": "Reset",
+      "title": "Reset"
+   },
+   "Save": {
+      "message": "Save",
+      "title": "Save"
+   },
+   "Settings": {
+      "message": "Settings",
+      "title": "Settings"
+   },
+   "Show": {
+      "message": "Show",
+      "title": "Show"
+   },
+   "Social": {
+      "message": "Social",
+      "title": "Social"
+   },
+   "Start_chat": {
+      "message": "Start Chat",
+      "title": "Start Chat"
+   },
+   "Support": {
+      "message": "support",
+      "title": "support"
+   },
+   "Support_Nocap": {
+      "message": "Support",
+      "title": "Support"
+   },
+   "Support_Option": {
+      "message": "Support Options",
+      "title": "Support Options"
+   },
+   "Team_help": {
+      "message": "Get direct help from out team",
+      "title": "Get direct help from out team"
+   },
+   "Terms": {
+      "message": "Terms",
+      "title": "Terms"
+   },
+   "Toggle": {
+      "message": "Turn on/off",
+      "title": "Turn on/off"
+   },
+   "Upcoming": {
+      "message": "upcoming",
+      "title": "upcoming"
+   },
+   "View_Details": {
+      "message": "View details",
+      "title": "View details"
+   }
+}

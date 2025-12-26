@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API/SDK ডকুমেন্টেশন",
+      "title": "API/SDK ডকুমেন্টেশন"
+   },
+   "API_Key_Required": {
+      "message": "অ্যাক্সেসের জন্য API কী প্রয়োজন",
+      "title": "অ্যাক্সেসের জন্য API কী প্রয়োজন"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "ব্যবহার করতে, এপিআই কী দিন।",
+      "title": "ব্যবহার করতে, এপিআই কী দিন।"
+   },
+   "Add_Credit": {
+      "message": "ক্রেডিট যোগ করুন",
+      "title": "ক্রেডিট যোগ করুন"
+   },
+   "Availability": {
+      "message": "সোম-শুক্র, সকাল ৯টা-৫টা EST",
+      "title": "সোম-শুক্র, সকাল ৯টা-৫টা EST"
+   },
+   "Balance": {
+      "message": "ব্যালেন্স",
+      "title": "ব্যালেন্স"
+   },
+   "Blacklist": {
+      "message": "বাঁধা",
+      "title": "বাঁধা"
+   },
+   "CaptchaList": {
+      "message": "পণ্যসমূহ",
+      "title": "পণ্যসমূহ"
+   },
+   "Captcha_Docs": {
+      "message": "সব ধরনের ক্যাপচা জন্য সম্পূর্ণ ডকস",
+      "title": "সব ধরনের ক্যাপচা জন্য সম্পূর্ণ ডকস"
+   },
+   "Copy": {
+      "message": "কপি",
+      "title": "কপি"
+   },
+   "Docs": {
+      "message": "ডকস",
+      "title": "ডকস"
+   },
+   "Documentation": {
+      "message": "ডকুমেন্টেশন",
+      "title": "ডকুমেন্টেশন"
+   },
+   "Edit": {
+      "message": "সম্পাদনা",
+      "title": "সম্পাদনা"
+   },
+   "Email_Support": {
+      "message": "ইমেইল সাপোর্ট",
+      "title": "ইমেইল সাপোর্ট"
+   },
+   "Expired": {
+      "message": "মেয়াদ উত্তীর্ণ",
+      "title": "মেয়াদ উত্তীর্ণ"
+   },
+   "Export_json": {
+      "message": "json এক্সপোর্ট",
+      "title": "json এক্সপোর্ট"
+   },
+   "Get_API_Key": {
+      "message": "API কী পান",
+      "title": "API কী পান"
+   },
+   "Guidence": {
+      "message": "গাইড ও API রেফারেন্স",
+      "title": "গাইড ও API রেফারেন্স"
+   },
+   "Hide": {
+      "message": "লুকান",
+      "title": "লুকান"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "অপর্যাপ্ত API কী ব্যালেন্স",
+      "title": "অপর্যাপ্ত API কী ব্যালেন্স"
+   },
+   "Invalid_API_Key": {
+      "message": "অবৈধ API কী",
+      "title": "অবৈধ API কী"
+   },
+   "Join_community": {
+      "message": "আমাদের কমিউনিটিতে যোগ দিন",
+      "title": "আমাদের কমিউনিটিতে যোগ দিন"
+   },
+   "Live_chat": {
+      "message": "লাইভ চ্যাট",
+      "title": "লাইভ চ্যাট"
+   },
+   "Menu": {
+      "message": "মেনু",
+      "title": "মেনু"
+   },
+   "Method_Switch": {
+      "message": "পদ্ধতি পরিবর্তন",
+      "title": "পদ্ধতি পরিবর্তন"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "BLS চ্যালেঞ্জের জন্য বিশেষ সলভার",
+      "title": "BLS চ্যালেঞ্জের জন্য বিশেষ সলভার"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "উন্নত AI চালিত ক্যাপচা সমাধান",
+      "title": "উন্নত AI চালিত ক্যাপচা সমাধান"
+   },
+   "Our_products": {
+      "message": "আমাদের পণ্যসমূহ",
+      "title": "আমাদের পণ্যসমূহ"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "দয়া করে একটি বৈধ API কী প্রদান করুন",
+      "title": "দয়া করে একটি বৈধ API কী প্রদান করুন"
+   },
+   "Pricing": {
+      "message": "মূল্য নির্ধারণ",
+      "title": "মূল্য নির্ধারণ"
+   },
+   "PrivacyPolicy": {
+      "message": "গোপনীয়তা",
+      "title": "গোপনীয়তা"
+   },
+   "Products": {
+      "message": "পণ্যসমূহ",
+      "title": "পণ্যসমূহ"
+   },
+   "Remove": {
+      "message": "অপসারণ",
+      "title": "অপসারণ"
+   },
+   "Reset": {
+      "message": "পুনরায়",
+      "title": "পুনরায়"
+   },
+   "Save": {
+      "message": "সংরক্ষণ",
+      "title": "সংরক্ষণ"
+   },
+   "Settings": {
+      "message": "সেটিংস",
+      "title": "সেটিংস"
+   },
+   "Show": {
+      "message": "দেখান",
+      "title": "দেখান"
+   },
+   "Social": {
+      "message": "সামাজিক",
+      "title": "সামাজিক"
+   },
+   "Start_chat": {
+      "message": "চ্যাট শুরু করুন",
+      "title": "চ্যাট শুরু করুন"
+   },
+   "Support": {
+      "message": "সহায়তা",
+      "title": "সহায়তা"
+   },
+   "Support_Nocap": {
+      "message": "সহায়তা",
+      "title": "সহায়তা"
+   },
+   "Support_Option": {
+      "message": "সাপোর্ট অপশন",
+      "title": "সাপোর্ট অপশন"
+   },
+   "Team_help": {
+      "message": "আমাদের টিম থেকে সরাসরি সাহায্য পান",
+      "title": "আমাদের টিম থেকে সরাসরি সাহায্য পান"
+   },
+   "Terms": {
+      "message": "শর্তাবলী",
+      "title": "শর্তাবলী"
+   },
+   "Toggle": {
+      "message": "চালু/বন্ধ",
+      "title": "চালু/বন্ধ"
+   },
+   "Upcoming": {
+      "message": "আসন্ন",
+      "title": "আসন্ন"
+   },
+   "View_Details": {
+      "message": "বিস্তারিত দেখুন",
+      "title": "বিস্তারিত দেখুন"
+   }
+}

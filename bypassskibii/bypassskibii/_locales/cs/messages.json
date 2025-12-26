@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "Dokumentace API/SDK",
+      "title": "Dokumentace API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "Pro přístup je vyžadován klíč API",
+      "title": "Pro přístup je vyžadován klíč API"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Pro použití zadejte API klíč.",
+      "title": "Pro použití zadejte API klíč."
+   },
+   "Add_Credit": {
+      "message": "Přidat kredit",
+      "title": "Přidat kredit"
+   },
+   "Availability": {
+      "message": "K dispozici Po-Pá, 9:00–17:00 EST",
+      "title": "K dispozici Po-Pá, 9:00–17:00 EST"
+   },
+   "Balance": {
+      "message": "Zůstatek",
+      "title": "Zůstatek"
+   },
+   "Blacklist": {
+      "message": "Černá listina",
+      "title": "Černá listina"
+   },
+   "CaptchaList": {
+      "message": "Produkty",
+      "title": "Produkty"
+   },
+   "Captcha_Docs": {
+      "message": "Komplexní dokumentace pro všechny typy captcha",
+      "title": "Komplexní dokumentace pro všechny typy captcha"
+   },
+   "Copy": {
+      "message": "Kopírovat",
+      "title": "Kopírovat"
+   },
+   "Docs": {
+      "message": "Dokumenty",
+      "title": "Dokumenty"
+   },
+   "Documentation": {
+      "message": "Dokumentace",
+      "title": "Dokumentace"
+   },
+   "Edit": {
+      "message": "Upravit",
+      "title": "Upravit"
+   },
+   "Email_Support": {
+      "message": "Podpora e-mailem",
+      "title": "Podpora e-mailem"
+   },
+   "Expired": {
+      "message": "Platnost vypršela",
+      "title": "Platnost vypršela"
+   },
+   "Export_json": {
+      "message": "Exportovat JSON",
+      "title": "Exportovat JSON"
+   },
+   "Get_API_Key": {
+      "message": "Získat klíč",
+      "title": "Získat klíč"
+   },
+   "Guidence": {
+      "message": "Průvodce a reference API",
+      "title": "Průvodce a reference API"
+   },
+   "Hide": {
+      "message": "Skrýt",
+      "title": "Skrýt"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Nedostatečný zůstatek API klíče",
+      "title": "Nedostatečný zůstatek API klíče"
+   },
+   "Invalid_API_Key": {
+      "message": "Neplatný API klíč",
+      "title": "Neplatný API klíč"
+   },
+   "Join_community": {
+      "message": "Připojte se k naší komunitě",
+      "title": "Připojte se k naší komunitě"
+   },
+   "Live_chat": {
+      "message": "Živý chat",
+      "title": "Živý chat"
+   },
+   "Menu": {
+      "message": "menu",
+      "title": "menu"
+   },
+   "Method_Switch": {
+      "message": "přepnutí metody",
+      "title": "přepnutí metody"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Specializovaný řešič pro BLS výzvy",
+      "title": "Specializovaný řešič pro BLS výzvy"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Pokročilé řešení captcha poháněné AI",
+      "title": "Pokročilé řešení captcha poháněné AI"
+   },
+   "Our_products": {
+      "message": "Naše produkty",
+      "title": "Naše produkty"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Zadejte prosím platný API klíč",
+      "title": "Zadejte prosím platný API klíč"
+   },
+   "Pricing": {
+      "message": "Ceník",
+      "title": "Ceník"
+   },
+   "PrivacyPolicy": {
+      "message": "Soukromí",
+      "title": "Soukromí"
+   },
+   "Products": {
+      "message": "Produkty",
+      "title": "Produkty"
+   },
+   "Remove": {
+      "message": "Odstranit",
+      "title": "Odstranit"
+   },
+   "Reset": {
+      "message": "Obnovit",
+      "title": "Obnovit"
+   },
+   "Save": {
+      "message": "Uložit",
+      "title": "Uložit"
+   },
+   "Settings": {
+      "message": "Nastavení",
+      "title": "Nastavení"
+   },
+   "Show": {
+      "message": "Zobrazit",
+      "title": "Zobrazit"
+   },
+   "Social": {
+      "message": "Sociální",
+      "title": "Sociální"
+   },
+   "Start_chat": {
+      "message": "Začít chat",
+      "title": "Začít chat"
+   },
+   "Support": {
+      "message": "podpora",
+      "title": "podpora"
+   },
+   "Support_Nocap": {
+      "message": "Podpora",
+      "title": "Podpora"
+   },
+   "Support_Option": {
+      "message": "Možnosti podpory",
+      "title": "Možnosti podpory"
+   },
+   "Team_help": {
+      "message": "Získejte přímou pomoc od našeho týmu",
+      "title": "Získejte přímou pomoc od našeho týmu"
+   },
+   "Terms": {
+      "message": "Podmínky",
+      "title": "Podmínky"
+   },
+   "Toggle": {
+      "message": "zapnout/vypnout",
+      "title": "zapnout/vypnout"
+   },
+   "Upcoming": {
+      "message": "Připravované",
+      "title": "Připravované"
+   },
+   "View_Details": {
+      "message": "Zobrazit podrobnosti",
+      "title": "Zobrazit podrobnosti"
+   }
+}

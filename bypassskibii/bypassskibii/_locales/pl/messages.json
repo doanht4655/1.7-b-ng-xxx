@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "Dokumentacja API/SDK",
+      "title": "Dokumentacja API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "Wymagany klucz API do uzyskania dostępu",
+      "title": "Wymagany klucz API do uzyskania dostępu"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Aby użyć, wprowadź klucz API.",
+      "title": "Aby użyć, wprowadź klucz API."
+   },
+   "Add_Credit": {
+      "message": "Dodaj kredyt",
+      "title": "Dodaj kredyt"
+   },
+   "Availability": {
+      "message": "Dostępne od poniedziałku do piątku, 9:00–17:00 EST",
+      "title": "Dostępne od poniedziałku do piątku, 9:00–17:00 EST"
+   },
+   "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+   },
+   "Blacklist": {
+      "message": "Czarna lista",
+      "title": "Czarna lista"
+   },
+   "CaptchaList": {
+      "message": "Produkty",
+      "title": "Produkty"
+   },
+   "Captcha_Docs": {
+      "message": "Kompleksowa dokumentacja dla wszystkich typów CAPTCHA",
+      "title": "Kompleksowa dokumentacja dla wszystkich typów CAPTCHA"
+   },
+   "Copy": {
+      "message": "Kopiuj",
+      "title": "Kopiuj"
+   },
+   "Docs": {
+      "message": "Dokumenty",
+      "title": "Dokumenty"
+   },
+   "Documentation": {
+      "message": "Dokumentacja",
+      "title": "Dokumentacja"
+   },
+   "Edit": {
+      "message": "Edytuj",
+      "title": "Edytuj"
+   },
+   "Email_Support": {
+      "message": "Wsparcie e-mailowe",
+      "title": "Wsparcie e-mailowe"
+   },
+   "Expired": {
+      "message": "Wygasło",
+      "title": "Wygasło"
+   },
+   "Export_json": {
+      "message": "Eksportuj JSON",
+      "title": "Eksportuj JSON"
+   },
+   "Get_API_Key": {
+      "message": "Pobierz klucz",
+      "title": "Pobierz klucz"
+   },
+   "Guidence": {
+      "message": "Przewodniki i odniesienia do API",
+      "title": "Przewodniki i odniesienia do API"
+   },
+   "Hide": {
+      "message": "Ukryj",
+      "title": "Ukryj"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Niewystarczające środki na kluczu API",
+      "title": "Niewystarczające środki na kluczu API"
+   },
+   "Invalid_API_Key": {
+      "message": "Nieprawidłowy klucz API",
+      "title": "Nieprawidłowy klucz API"
+   },
+   "Join_community": {
+      "message": "Dołącz do naszej społeczności",
+      "title": "Dołącz do naszej społeczności"
+   },
+   "Live_chat": {
+      "message": "Czat na żywo",
+      "title": "Czat na żywo"
+   },
+   "Menu": {
+      "message": "menu",
+      "title": "menu"
+   },
+   "Method_Switch": {
+      "message": "zmiana metody",
+      "title": "zmiana metody"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Specjalistyczne rozwiązanie dla wyzwań BLS",
+      "title": "Specjalistyczne rozwiązanie dla wyzwań BLS"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Zaawansowane rozwiązanie CAPTCHA oparte na AI",
+      "title": "Zaawansowane rozwiązanie CAPTCHA oparte na AI"
+   },
+   "Our_products": {
+      "message": "Nasze produkty",
+      "title": "Nasze produkty"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Podaj prawidłowy klucz API, aby kontynuować.",
+      "title": "Podaj prawidłowy klucz API, aby kontynuować."
+   },
+   "Pricing": {
+      "message": "Cennik",
+      "title": "Cennik"
+   },
+   "PrivacyPolicy": {
+      "message": "Prywatność",
+      "title": "Prywatność"
+   },
+   "Products": {
+      "message": "Produkty",
+      "title": "Produkty"
+   },
+   "Remove": {
+      "message": "Usuń",
+      "title": "Usuń"
+   },
+   "Reset": {
+      "message": "Zresetuj",
+      "title": "Zresetuj"
+   },
+   "Save": {
+      "message": "Zapisz",
+      "title": "Zapisz"
+   },
+   "Settings": {
+      "message": "Ustawienia",
+      "title": "Ustawienia"
+   },
+   "Show": {
+      "message": "Pokaż",
+      "title": "Pokaż"
+   },
+   "Social": {
+      "message": "Społeczność",
+      "title": "Społeczność"
+   },
+   "Start_chat": {
+      "message": "Rozpocznij czat",
+      "title": "Rozpocznij czat"
+   },
+   "Support": {
+      "message": "wsparcie",
+      "title": "wsparcie"
+   },
+   "Support_Nocap": {
+      "message": "Wsparcie",
+      "title": "Wsparcie"
+   },
+   "Support_Option": {
+      "message": "Opcje wsparcia",
+      "title": "Opcje wsparcia"
+   },
+   "Team_help": {
+      "message": "Uzyskaj bezpośrednią pomoc od naszego zespołu",
+      "title": "Uzyskaj bezpośrednią pomoc od naszego zespołu"
+   },
+   "Terms": {
+      "message": "Warunki",
+      "title": "Warunki"
+   },
+   "Toggle": {
+      "message": "włącz/wyłącz",
+      "title": "włącz/wyłącz"
+   },
+   "Upcoming": {
+      "message": "Nadchodzące",
+      "title": "Nadchodzące"
+   },
+   "View_Details": {
+      "message": "Zobacz szczegóły",
+      "title": "Zobacz szczegóły"
+   }
+}

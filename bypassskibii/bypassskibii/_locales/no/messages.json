@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API-/SDK-dokumentasjon",
+      "title": "API-/SDK-dokumentasjon"
+   },
+   "API_Key_Required": {
+      "message": "API-nøkkel er nødvendig for tilgang",
+      "title": "API-nøkkel er nødvendig for tilgang"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "For å bruke, skriv inn API-nøkkel.",
+      "title": "For å bruke, skriv inn API-nøkkel."
+   },
+   "Add_Credit": {
+      "message": "Legg til kreditt",
+      "title": "Legg til kreditt"
+   },
+   "Availability": {
+      "message": "Tilgjengelig man–fre, 09:00–17:00 EST",
+      "title": "Tilgjengelig man–fre, 09:00–17:00 EST"
+   },
+   "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+   },
+   "Blacklist": {
+      "message": "Svarteliste",
+      "title": "Svarteliste"
+   },
+   "CaptchaList": {
+      "message": "Produkter",
+      "title": "Produkter"
+   },
+   "Captcha_Docs": {
+      "message": "Omfattende dokumentasjon for alle captcha-typer",
+      "title": "Omfattende dokumentasjon for alle captcha-typer"
+   },
+   "Copy": {
+      "message": "Kopier",
+      "title": "Kopier"
+   },
+   "Docs": {
+      "message": "Dokumenter",
+      "title": "Dokumenter"
+   },
+   "Documentation": {
+      "message": "Dokumentasjon",
+      "title": "Dokumentasjon"
+   },
+   "Edit": {
+      "message": "Rediger",
+      "title": "Rediger"
+   },
+   "Email_Support": {
+      "message": "E-poststøtte",
+      "title": "E-poststøtte"
+   },
+   "Expired": {
+      "message": "Utløpt",
+      "title": "Utløpt"
+   },
+   "Export_json": {
+      "message": "Eksporter JSON",
+      "title": "Eksporter JSON"
+   },
+   "Get_API_Key": {
+      "message": "Hent nøkkel",
+      "title": "Hent nøkkel"
+   },
+   "Guidence": {
+      "message": "Veiledninger og API-referanser",
+      "title": "Veiledninger og API-referanser"
+   },
+   "Hide": {
+      "message": "Skjul",
+      "title": "Skjul"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Utilstrekkelig API-nøkkelsaldo",
+      "title": "Utilstrekkelig API-nøkkelsaldo"
+   },
+   "Invalid_API_Key": {
+      "message": "Ugyldig API-nøkkel",
+      "title": "Ugyldig API-nøkkel"
+   },
+   "Join_community": {
+      "message": "Bli med i vårt fellesskap",
+      "title": "Bli med i vårt fellesskap"
+   },
+   "Live_chat": {
+      "message": "Direktechat",
+      "title": "Direktechat"
+   },
+   "Menu": {
+      "message": "meny",
+      "title": "meny"
+   },
+   "Method_Switch": {
+      "message": "metodebytte",
+      "title": "metodebytte"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Spesialisert løser for BLS-utfordringer",
+      "title": "Spesialisert løser for BLS-utfordringer"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Avansert AI-drevet captcha-løsning",
+      "title": "Avansert AI-drevet captcha-løsning"
+   },
+   "Our_products": {
+      "message": "Våre produkter",
+      "title": "Våre produkter"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Oppgi en gyldig API-nøkkel for å fortsette.",
+      "title": "Oppgi en gyldig API-nøkkel for å fortsette."
+   },
+   "Pricing": {
+      "message": "Priser",
+      "title": "Priser"
+   },
+   "PrivacyPolicy": {
+      "message": "Personvern",
+      "title": "Personvern"
+   },
+   "Products": {
+      "message": "Produkter",
+      "title": "Produkter"
+   },
+   "Remove": {
+      "message": "Fjern",
+      "title": "Fjern"
+   },
+   "Reset": {
+      "message": "Tilbakestill",
+      "title": "Tilbakestill"
+   },
+   "Save": {
+      "message": "Lagre",
+      "title": "Lagre"
+   },
+   "Settings": {
+      "message": "Innstillinger",
+      "title": "Innstillinger"
+   },
+   "Show": {
+      "message": "Vis",
+      "title": "Vis"
+   },
+   "Social": {
+      "message": "Sosial",
+      "title": "Sosial"
+   },
+   "Start_chat": {
+      "message": "Start chat",
+      "title": "Start chat"
+   },
+   "Support": {
+      "message": "støtte",
+      "title": "støtte"
+   },
+   "Support_Nocap": {
+      "message": "Støtte",
+      "title": "Støtte"
+   },
+   "Support_Option": {
+      "message": "Støttealternativer",
+      "title": "Støttealternativer"
+   },
+   "Team_help": {
+      "message": "Få direkte hjelp fra vårt team",
+      "title": "Få direkte hjelp fra vårt team"
+   },
+   "Terms": {
+      "message": "Vilkår",
+      "title": "Vilkår"
+   },
+   "Toggle": {
+      "message": "på/av",
+      "title": "på/av"
+   },
+   "Upcoming": {
+      "message": "Kommer",
+      "title": "Kommer"
+   },
+   "View_Details": {
+      "message": "Se detaljer",
+      "title": "Se detaljer"
+   }
+}

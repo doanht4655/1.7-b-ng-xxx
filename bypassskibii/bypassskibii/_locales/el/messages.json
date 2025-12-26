@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "Τεκμηρίωση API/SDK",
+      "title": "Τεκμηρίωση API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "Απαιτείται κλειδί API για πρόσβαση",
+      "title": "Απαιτείται κλειδί API για πρόσβαση"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Για πρόσβαση, εισαγάγετε κλειδί API.",
+      "title": "Για πρόσβαση, εισαγάγετε κλειδί API."
+   },
+   "Add_Credit": {
+      "message": "Εγγραφή",
+      "title": "Εγγραφή"
+   },
+   "Availability": {
+      "message": "Διαθέσιμο Δευ-Παρ, 9πμ-5μμ EST",
+      "title": "Διαθέσιμο Δευ-Παρ, 9πμ-5μμ EST"
+   },
+   "Balance": {
+      "message": "Υπόλοιπο",
+      "title": "Υπόλοιπο"
+   },
+   "Blacklist": {
+      "message": "Μαύρη λίστα",
+      "title": "Μαύρη λίστα"
+   },
+   "CaptchaList": {
+      "message": "Προϊόντα",
+      "title": "Προϊόντα"
+   },
+   "Captcha_Docs": {
+      "message": "Πλήρης τεκμηρίωση για όλους τους τύπους captcha",
+      "title": "Πλήρης τεκμηρίωση για όλους τους τύπους captcha"
+   },
+   "Copy": {
+      "message": "Αντιγραφή",
+      "title": "Αντιγραφή"
+   },
+   "Docs": {
+      "message": "Έγγραφα",
+      "title": "Έγγραφα"
+   },
+   "Documentation": {
+      "message": "Τεκμηρίωση",
+      "title": "Τεκμηρίωση"
+   },
+   "Edit": {
+      "message": "Επεξεργασία",
+      "title": "Επεξεργασία"
+   },
+   "Email_Support": {
+      "message": "Υποστήριξη μέσω email",
+      "title": "Υποστήριξη μέσω email"
+   },
+   "Expired": {
+      "message": "Έληξε",
+      "title": "Έληξε"
+   },
+   "Export_json": {
+      "message": "Εξαγωγή JSON",
+      "title": "Εξαγωγή JSON"
+   },
+   "Get_API_Key": {
+      "message": "Λήψη κλειδιού",
+      "title": "Λήψη κλειδιού"
+   },
+   "Guidence": {
+      "message": "Οδηγοί και αναφορές API",
+      "title": "Οδηγοί και αναφορές API"
+   },
+   "Hide": {
+      "message": "Απόκρυψη",
+      "title": "Απόκρυψη"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Ανεπαρκές υπόλοιπο API κλειδιού",
+      "title": "Ανεπαρκές υπόλοιπο API κλειδιού"
+   },
+   "Invalid_API_Key": {
+      "message": "Μη έγκυρο API κλειδί",
+      "title": "Μη έγκυρο API κλειδί"
+   },
+   "Join_community": {
+      "message": "Εγγραφείτε στην κοινότητά μας",
+      "title": "Εγγραφείτε στην κοινότητά μας"
+   },
+   "Live_chat": {
+      "message": "Ζωντανή συνομιλία",
+      "title": "Ζωντανή συνομιλία"
+   },
+   "Menu": {
+      "message": "μενού",
+      "title": "μενού"
+   },
+   "Method_Switch": {
+      "message": "εναλλαγή μεθόδου",
+      "title": "εναλλαγή μεθόδου"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Εξειδικευμένος λύτης για προκλήσεις BLS",
+      "title": "Εξειδικευμένος λύτης για προκλήσεις BLS"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Προηγμένη επίλυση captcha με τεχνητή νοημοσύνη",
+      "title": "Προηγμένη επίλυση captcha με τεχνητή νοημοσύνη"
+   },
+   "Our_products": {
+      "message": "Τα προϊόντα μας",
+      "title": "Τα προϊόντα μας"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Παρακαλώ δώστε ένα έγκυρο API κλειδί",
+      "title": "Παρακαλώ δώστε ένα έγκυρο API κλειδί"
+   },
+   "Pricing": {
+      "message": "Τιμολόγηση",
+      "title": "Τιμολόγηση"
+   },
+   "PrivacyPolicy": {
+      "message": "Απόρρητο",
+      "title": "Απόρρητο"
+   },
+   "Products": {
+      "message": "Προϊόντα",
+      "title": "Προϊόντα"
+   },
+   "Remove": {
+      "message": "Αφαίρεση",
+      "title": "Αφαίρεση"
+   },
+   "Reset": {
+      "message": "Επαναφορά",
+      "title": "Επαναφορά"
+   },
+   "Save": {
+      "message": "Αποθήκευση",
+      "title": "Αποθήκευση"
+   },
+   "Settings": {
+      "message": "Ρυθμίσεις",
+      "title": "Ρυθμίσεις"
+   },
+   "Show": {
+      "message": "Εμφάνιση",
+      "title": "Εμφάνιση"
+   },
+   "Social": {
+      "message": "Κοινωνικό",
+      "title": "Κοινωνικό"
+   },
+   "Start_chat": {
+      "message": "Ξεκινήστε συνομιλία",
+      "title": "Ξεκινήστε συνομιλία"
+   },
+   "Support": {
+      "message": "υποστήριξη",
+      "title": "υποστήριξη"
+   },
+   "Support_Nocap": {
+      "message": "Υποστήριξη",
+      "title": "Υποστήριξη"
+   },
+   "Support_Option": {
+      "message": "Επιλογές υποστήριξης",
+      "title": "Επιλογές υποστήριξης"
+   },
+   "Team_help": {
+      "message": "Λάβετε άμεση βοήθεια από την ομάδα μας",
+      "title": "Λάβετε άμεση βοήθεια από την ομάδα μας"
+   },
+   "Terms": {
+      "message": "Όροι",
+      "title": "Όροι"
+   },
+   "Toggle": {
+      "message": "ενεργοποίηση/απενεργοποίηση",
+      "title": "ενεργοποίηση/απενεργοποίηση"
+   },
+   "Upcoming": {
+      "message": "Επερχόμενα",
+      "title": "Επερχόμενα"
+   },
+   "View_Details": {
+      "message": "Προβολή λεπτομερειών",
+      "title": "Προβολή λεπτομερειών"
+   }
+}

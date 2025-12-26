@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API/SDK Dokümantasyonu",
+      "title": "API/SDK Dokümantasyonu"
+   },
+   "API_Key_Required": {
+      "message": "Erişim için API anahtarı gereklidir",
+      "title": "Erişim için API anahtarı gereklidir"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "API anahtarı ekleyin için erişim.",
+      "title": "API anahtarı ekleyin için erişim."
+   },
+   "Add_Credit": {
+      "message": "Kredi Ekle",
+      "title": "Kredi Ekle"
+   },
+   "Availability": {
+      "message": "Pzt–Cum, 09:00–17:00 EST arası müsait",
+      "title": "Pzt–Cum, 09:00–17:00 EST arası müsait"
+   },
+   "Balance": {
+      "message": "Bakiye",
+      "title": "Bakiye"
+   },
+   "Blacklist": {
+      "message": "Kara Liste",
+      "title": "Kara Liste"
+   },
+   "CaptchaList": {
+      "message": "Ürünler",
+      "title": "Ürünler"
+   },
+   "Captcha_Docs": {
+      "message": "Tüm CAPTCHA türleri için kapsamlı dokümantasyon",
+      "title": "Tüm CAPTCHA türleri için kapsamlı dokümantasyon"
+   },
+   "Copy": {
+      "message": "Kopyala",
+      "title": "Kopyala"
+   },
+   "Docs": {
+      "message": "Dökümanlar",
+      "title": "Dökümanlar"
+   },
+   "Documentation": {
+      "message": "Dokümantasyon",
+      "title": "Dokümantasyon"
+   },
+   "Edit": {
+      "message": "Düzenle",
+      "title": "Düzenle"
+   },
+   "Email_Support": {
+      "message": "E-posta Desteği",
+      "title": "E-posta Desteği"
+   },
+   "Expired": {
+      "message": "Süresi Dolmuş",
+      "title": "Süresi Dolmuş"
+   },
+   "Export_json": {
+      "message": "JSON Dışa Aktar",
+      "title": "JSON Dışa Aktar"
+   },
+   "Get_API_Key": {
+      "message": "Anahtar al",
+      "title": "Anahtar al"
+   },
+   "Guidence": {
+      "message": "Kılavuzlar ve API referansları",
+      "title": "Kılavuzlar ve API referansları"
+   },
+   "Hide": {
+      "message": "Gizle",
+      "title": "Gizle"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "API Anahtarı Yeterli Bakiyesi Yok",
+      "title": "API Anahtarı Yeterli Bakiyesi Yok"
+   },
+   "Invalid_API_Key": {
+      "message": "Geçersiz API Anahtarı",
+      "title": "Geçersiz API Anahtarı"
+   },
+   "Join_community": {
+      "message": "Topluluğumuza katılın",
+      "title": "Topluluğumuza katılın"
+   },
+   "Live_chat": {
+      "message": "Canlı Sohbet",
+      "title": "Canlı Sohbet"
+   },
+   "Menu": {
+      "message": "menü",
+      "title": "menü"
+   },
+   "Method_Switch": {
+      "message": "yöntem değiştir",
+      "title": "yöntem değiştir"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "BLS zorlukları için özel çözümleyici",
+      "title": "BLS zorlukları için özel çözümleyici"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Gelişmiş yapay zekâ destekli CAPTCHA çözümü",
+      "title": "Gelişmiş yapay zekâ destekli CAPTCHA çözümü"
+   },
+   "Our_products": {
+      "message": "Ürünlerimiz",
+      "title": "Ürünlerimiz"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Geçerli bir API anahtarı sağlayın ve devam edin.",
+      "title": "Geçerli bir API anahtarı sağlayın ve devam edin."
+   },
+   "Pricing": {
+      "message": "Fiyatlandırma",
+      "title": "Fiyatlandırma"
+   },
+   "PrivacyPolicy": {
+      "message": "Gizlilik Politikası",
+      "title": "Gizlilik Politikası"
+   },
+   "Products": {
+      "message": "Ürünler",
+      "title": "Ürünler"
+   },
+   "Remove": {
+      "message": "Kaldır",
+      "title": "Kaldır"
+   },
+   "Reset": {
+      "message": "Sıfırla",
+      "title": "Sıfırla"
+   },
+   "Save": {
+      "message": "Kaydet",
+      "title": "Kaydet"
+   },
+   "Settings": {
+      "message": "Ayarlar",
+      "title": "Ayarlar"
+   },
+   "Show": {
+      "message": "Göster",
+      "title": "Göster"
+   },
+   "Social": {
+      "message": "Sosyal",
+      "title": "Sosyal"
+   },
+   "Start_chat": {
+      "message": "Sohbete Başla",
+      "title": "Sohbete Başla"
+   },
+   "Support": {
+      "message": "destek",
+      "title": "destek"
+   },
+   "Support_Nocap": {
+      "message": "Destek",
+      "title": "Destek"
+   },
+   "Support_Option": {
+      "message": "Destek Seçenekleri",
+      "title": "Destek Seçenekleri"
+   },
+   "Team_help": {
+      "message": "Ekibimizden doğrudan yardım alın",
+      "title": "Ekibimizden doğrudan yardım alın"
+   },
+   "Terms": {
+      "message": "Şartlar",
+      "title": "Şartlar"
+   },
+   "Toggle": {
+      "message": "aç/kapa",
+      "title": "aç/kapa"
+   },
+   "Upcoming": {
+      "message": "Yaklaşan",
+      "title": "Yaklaşan"
+   },
+   "View_Details": {
+      "message": "Detayları görüntüle",
+      "title": "Detayları görüntüle"
+   }
+}

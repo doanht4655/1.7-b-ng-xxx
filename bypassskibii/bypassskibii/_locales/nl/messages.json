@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API/SDK documentatie",
+      "title": "API/SDK documentatie"
+   },
+   "API_Key_Required": {
+      "message": "API-sleutel vereist voor toegang",
+      "title": "API-sleutel vereist voor toegang"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Voor gebruik, voer API-sleutel in.",
+      "title": "Voor gebruik, voer API-sleutel in."
+   },
+   "Add_Credit": {
+      "message": "Voeg krediet toe",
+      "title": "Voeg krediet toe"
+   },
+   "Availability": {
+      "message": "Beschikbaar ma-vr, 9:00-17:00 EST",
+      "title": "Beschikbaar ma-vr, 9:00-17:00 EST"
+   },
+   "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+   },
+   "Blacklist": {
+      "message": "Zwarte lijst",
+      "title": "Zwarte lijst"
+   },
+   "CaptchaList": {
+      "message": "Producten",
+      "title": "Producten"
+   },
+   "Captcha_Docs": {
+      "message": "Uitgebreide documentatie voor alle captcha-types",
+      "title": "Uitgebreide documentatie voor alle captcha-types"
+   },
+   "Copy": {
+      "message": "Kopiëren",
+      "title": "Kopiëren"
+   },
+   "Docs": {
+      "message": "Documenten",
+      "title": "Documenten"
+   },
+   "Documentation": {
+      "message": "Documentatie",
+      "title": "Documentatie"
+   },
+   "Edit": {
+      "message": "Bewerken",
+      "title": "Bewerken"
+   },
+   "Email_Support": {
+      "message": "E-mail ondersteuning",
+      "title": "E-mail ondersteuning"
+   },
+   "Expired": {
+      "message": "Verlopen",
+      "title": "Verlopen"
+   },
+   "Export_json": {
+      "message": "Exporteer JSON",
+      "title": "Exporteer JSON"
+   },
+   "Get_API_Key": {
+      "message": "Sleutel halen",
+      "title": "Sleutel halen"
+   },
+   "Guidence": {
+      "message": "Gidsen en API-referenties",
+      "title": "Gidsen en API-referenties"
+   },
+   "Hide": {
+      "message": "Verbergen",
+      "title": "Verbergen"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Onvoldoende API-sleutel saldo",
+      "title": "Onvoldoende API-sleutel saldo"
+   },
+   "Invalid_API_Key": {
+      "message": "Ongeldige API-sleutel",
+      "title": "Ongeldige API-sleutel"
+   },
+   "Join_community": {
+      "message": "Word lid van onze community",
+      "title": "Word lid van onze community"
+   },
+   "Live_chat": {
+      "message": "Livechat",
+      "title": "Livechat"
+   },
+   "Menu": {
+      "message": "menu",
+      "title": "menu"
+   },
+   "Method_Switch": {
+      "message": "methode wisselen",
+      "title": "methode wisselen"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Gespecialiseerde solver voor BLS-uitdagingen",
+      "title": "Gespecialiseerde solver voor BLS-uitdagingen"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Geavanceerde AI-gedreven captcha-oplossing",
+      "title": "Geavanceerde AI-gedreven captcha-oplossing"
+   },
+   "Our_products": {
+      "message": "Onze producten",
+      "title": "Onze producten"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Geef een geldige API-sleutel op om door te gaan",
+      "title": "Geef een geldige API-sleutel op om door te gaan"
+   },
+   "Pricing": {
+      "message": "Prijzen",
+      "title": "Prijzen"
+   },
+   "PrivacyPolicy": {
+      "message": "Privacy",
+      "title": "Privacy"
+   },
+   "Products": {
+      "message": "Producten",
+      "title": "Producten"
+   },
+   "Remove": {
+      "message": "Verwijderen",
+      "title": "Verwijderen"
+   },
+   "Reset": {
+      "message": "Resetten",
+      "title": "Resetten"
+   },
+   "Save": {
+      "message": "Opslaan",
+      "title": "Opslaan"
+   },
+   "Settings": {
+      "message": "Instellingen",
+      "title": "Instellingen"
+   },
+   "Show": {
+      "message": "Toon",
+      "title": "Toon"
+   },
+   "Social": {
+      "message": "Sociaal",
+      "title": "Sociaal"
+   },
+   "Start_chat": {
+      "message": "Start chat",
+      "title": "Start chat"
+   },
+   "Support": {
+      "message": "ondersteuning",
+      "title": "ondersteuning"
+   },
+   "Support_Nocap": {
+      "message": "Ondersteuning",
+      "title": "Ondersteuning"
+   },
+   "Support_Option": {
+      "message": "Ondersteuningsopties",
+      "title": "Ondersteuningsopties"
+   },
+   "Team_help": {
+      "message": "Krijg directe hulp van ons team",
+      "title": "Krijg directe hulp van ons team"
+   },
+   "Terms": {
+      "message": "Voorwaarden",
+      "title": "Voorwaarden"
+   },
+   "Toggle": {
+      "message": "aan/uit",
+      "title": "aan/uit"
+   },
+   "Upcoming": {
+      "message": "Aankomend",
+      "title": "Aankomend"
+   },
+   "View_Details": {
+      "message": "Details bekijken",
+      "title": "Details bekijken"
+   }
+}

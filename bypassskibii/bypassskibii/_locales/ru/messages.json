@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "Документация API/SDK",
+      "title": "Документация API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "Требуется API ключ для доступа",
+      "title": "Требуется API ключ для доступа"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Добавьте API ключ для доступа.",
+      "title": "Добавьте API ключ для доступа."
+   },
+   "Add_Credit": {
+      "message": "Пополнить",
+      "title": "Пополнить"
+   },
+   "Availability": {
+      "message": "Доступно с понедельника по пятницу, с 9:00 до 17:00 EST",
+      "title": "Доступно с понедельника по пятницу, с 9:00 до 17:00 EST"
+   },
+   "Balance": {
+      "message": "Баланс",
+      "title": "Баланс"
+   },
+   "Blacklist": {
+      "message": "Черный список",
+      "title": "Черный список"
+   },
+   "CaptchaList": {
+      "message": "Продукты",
+      "title": "Продукты"
+   },
+   "Captcha_Docs": {
+      "message": "Полная документация для всех типов CAPTCHA",
+      "title": "Полная документация для всех типов CAPTCHA"
+   },
+   "Copy": {
+      "message": "Копировать",
+      "title": "Копировать"
+   },
+   "Docs": {
+      "message": "Документы",
+      "title": "Документы"
+   },
+   "Documentation": {
+      "message": "Документация",
+      "title": "Документация"
+   },
+   "Edit": {
+      "message": "Редактировать",
+      "title": "Редактировать"
+   },
+   "Email_Support": {
+      "message": "Поддержка по электронной почте",
+      "title": "Поддержка по электронной почте"
+   },
+   "Expired": {
+      "message": "Истекло",
+      "title": "Истекло"
+   },
+   "Export_json": {
+      "message": "Экспортировать JSON",
+      "title": "Экспортировать JSON"
+   },
+   "Get_API_Key": {
+      "message": "Получить ключ",
+      "title": "Получить ключ"
+   },
+   "Guidence": {
+      "message": "Руководства и ссылки на API",
+      "title": "Руководства и ссылки на API"
+   },
+   "Hide": {
+      "message": "Скрыть",
+      "title": "Скрыть"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Недостаточно средств на API ключе",
+      "title": "Недостаточно средств на API ключе"
+   },
+   "Invalid_API_Key": {
+      "message": "Неверный API ключ",
+      "title": "Неверный API ключ"
+   },
+   "Join_community": {
+      "message": "Присоединяйтесь к нашему сообществу",
+      "title": "Присоединяйтесь к нашему сообществу"
+   },
+   "Live_chat": {
+      "message": "Онлайн-чат",
+      "title": "Онлайн-чат"
+   },
+   "Menu": {
+      "message": "меню",
+      "title": "меню"
+   },
+   "Method_Switch": {
+      "message": "смена метода",
+      "title": "смена метода"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Специализированное решение для задач BLS",
+      "title": "Специализированное решение для задач BLS"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Продвинутое решение CAPTCHA на основе ИИ",
+      "title": "Продвинутое решение CAPTCHA на основе ИИ"
+   },
+   "Our_products": {
+      "message": "Наши продукты",
+      "title": "Наши продукты"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Укажите действующий API ключ",
+      "title": "Укажите действующий API ключ"
+   },
+   "Pricing": {
+      "message": "Цены",
+      "title": "Цены"
+   },
+   "PrivacyPolicy": {
+      "message": "Конфиденциальность",
+      "title": "Конфиденциальность"
+   },
+   "Products": {
+      "message": "Продукты",
+      "title": "Продукты"
+   },
+   "Remove": {
+      "message": "Удалить",
+      "title": "Удалить"
+   },
+   "Reset": {
+      "message": "Сбросить",
+      "title": "Сбросить"
+   },
+   "Save": {
+      "message": "Сохранить",
+      "title": "Сохранить"
+   },
+   "Settings": {
+      "message": "Настройки",
+      "title": "Настройки"
+   },
+   "Show": {
+      "message": "Показать",
+      "title": "Показать"
+   },
+   "Social": {
+      "message": "Социальный",
+      "title": "Социальный"
+   },
+   "Start_chat": {
+      "message": "Начать чат",
+      "title": "Начать чат"
+   },
+   "Support": {
+      "message": "поддержка",
+      "title": "поддержка"
+   },
+   "Support_Nocap": {
+      "message": "Поддержка",
+      "title": "Поддержка"
+   },
+   "Support_Option": {
+      "message": "Варианты поддержки",
+      "title": "Варианты поддержки"
+   },
+   "Team_help": {
+      "message": "Получите прямую помощь от нашей команды",
+      "title": "Получите прямую помощь от нашей команды"
+   },
+   "Terms": {
+      "message": "Условия",
+      "title": "Условия"
+   },
+   "Toggle": {
+      "message": "включить/выключить",
+      "title": "включить/выключить"
+   },
+   "Upcoming": {
+      "message": "Предстоящие",
+      "title": "Предстоящие"
+   },
+   "View_Details": {
+      "message": "Просмотреть детали",
+      "title": "Просмотреть детали"
+   }
+}

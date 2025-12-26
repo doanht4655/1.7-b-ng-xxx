@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "Tài liệu API/SDK",
+      "title": "Tài liệu API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "Yêu cầu khóa API để truy cập",
+      "title": "Yêu cầu khóa API để truy cập"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Thêm khóa API để truy cập.",
+      "title": "Thêm khóa API để truy cập."
+   },
+   "Add_Credit": {
+      "message": "Thêm tín dụng",
+      "title": "Thêm tín dụng"
+   },
+   "Availability": {
+      "message": "Có sẵn Thứ Hai–Thứ Sáu, 9h–17h EST",
+      "title": "Có sẵn Thứ Hai–Thứ Sáu, 9h–17h EST"
+   },
+   "Balance": {
+      "message": "Số dư",
+      "title": "Số dư"
+   },
+   "Blacklist": {
+      "message": "Danh sách đen",
+      "title": "Danh sách đen"
+   },
+   "CaptchaList": {
+      "message": "Sản phẩm",
+      "title": "Sản phẩm"
+   },
+   "Captcha_Docs": {
+      "message": "Tài liệu đầy đủ cho tất cả các loại CAPTCHA",
+      "title": "Tài liệu đầy đủ cho tất cả các loại CAPTCHA"
+   },
+   "Copy": {
+      "message": "Sao chép",
+      "title": "Sao chép"
+   },
+   "Docs": {
+      "message": "Tài liệu",
+      "title": "Tài liệu"
+   },
+   "Documentation": {
+      "message": "Tài liệu",
+      "title": "Tài liệu"
+   },
+   "Edit": {
+      "message": "Chỉnh sửa",
+      "title": "Chỉnh sửa"
+   },
+   "Email_Support": {
+      "message": "Hỗ trợ qua email",
+      "title": "Hỗ trợ qua email"
+   },
+   "Expired": {
+      "message": "Hết hạn",
+      "title": "Hết hạn"
+   },
+   "Export_json": {
+      "message": "Xuất JSON",
+      "title": "Xuất JSON"
+   },
+   "Get_API_Key": {
+      "message": "Lấy key",
+      "title": "Lấy key"
+   },
+   "Guidence": {
+      "message": "Hướng dẫn và tài liệu API",
+      "title": "Hướng dẫn và tài liệu API"
+   },
+   "Hide": {
+      "message": "Ẩn",
+      "title": "Ẩn"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Số dư khóa API không đủ",
+      "title": "Số dư khóa API không đủ"
+   },
+   "Invalid_API_Key": {
+      "message": "Khóa API không hợp lệ",
+      "title": "Khóa API không hợp lệ"
+   },
+   "Join_community": {
+      "message": "Tham gia cộng đồng của chúng tôi",
+      "title": "Tham gia cộng đồng của chúng tôi"
+   },
+   "Live_chat": {
+      "message": "Trò chuyện trực tiếp",
+      "title": "Trò chuyện trực tiếp"
+   },
+   "Menu": {
+      "message": "thực đơn",
+      "title": "thực đơn"
+   },
+   "Method_Switch": {
+      "message": "chuyển phương pháp",
+      "title": "chuyển phương pháp"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Trình giải chuyên biệt cho thử thách BLS",
+      "title": "Trình giải chuyên biệt cho thử thách BLS"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Giải pháp CAPTCHA tiên tiến sử dụng AI",
+      "title": "Giải pháp CAPTCHA tiên tiến sử dụng AI"
+   },
+   "Our_products": {
+      "message": "Sản phẩm của chúng tôi",
+      "title": "Sản phẩm của chúng tôi"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Cung cấp khóa API hợp lệ để tiếp tục.",
+      "title": "Cung cấp khóa API hợp lệ để tiếp tục."
+   },
+   "Pricing": {
+      "message": "Giá cả",
+      "title": "Giá cả"
+   },
+   "PrivacyPolicy": {
+      "message": "Chính sách bảo mật",
+      "title": "Chính sách bảo mật"
+   },
+   "Products": {
+      "message": "Sản phẩm",
+      "title": "Sản phẩm"
+   },
+   "Remove": {
+      "message": "Xóa",
+      "title": "Xóa"
+   },
+   "Reset": {
+      "message": "Đặt lại",
+      "title": "Đặt lại"
+   },
+   "Save": {
+      "message": "Lưu",
+      "title": "Lưu"
+   },
+   "Settings": {
+      "message": "Cài đặt",
+      "title": "Cài đặt"
+   },
+   "Show": {
+      "message": "Hiển thị",
+      "title": "Hiển thị"
+   },
+   "Social": {
+      "message": "Xã hội",
+      "title": "Xã hội"
+   },
+   "Start_chat": {
+      "message": "Bắt đầu trò chuyện",
+      "title": "Bắt đầu trò chuyện"
+   },
+   "Support": {
+      "message": "hỗ trợ",
+      "title": "hỗ trợ"
+   },
+   "Support_Nocap": {
+      "message": "Hỗ trợ",
+      "title": "Hỗ trợ"
+   },
+   "Support_Option": {
+      "message": "Tùy chọn hỗ trợ",
+      "title": "Tùy chọn hỗ trợ"
+   },
+   "Team_help": {
+      "message": "Nhận hỗ trợ trực tiếp từ đội ngũ của chúng tôi",
+      "title": "Nhận hỗ trợ trực tiếp từ đội ngũ của chúng tôi"
+   },
+   "Terms": {
+      "message": "Điều khoản",
+      "title": "Điều khoản"
+   },
+   "Toggle": {
+      "message": "bật/tắt",
+      "title": "bật/tắt"
+   },
+   "Upcoming": {
+      "message": "Sắp tới",
+      "title": "Sắp tới"
+   },
+   "View_Details": {
+      "message": "Xem chi tiết",
+      "title": "Xem chi tiết"
+   }
+}

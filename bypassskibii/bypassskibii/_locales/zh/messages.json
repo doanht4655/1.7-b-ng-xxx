@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API/SDK文档",
+      "title": "API/SDK文档"
+   },
+   "API_Key_Required": {
+      "message": "访问需要API密钥",
+      "title": "访问需要API密钥"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "要访问此功能，请添加API密钥。",
+      "title": "要访问此功能，请添加API密钥。"
+   },
+   "Add_Credit": {
+      "message": "添加信用",
+      "title": "添加信用"
+   },
+   "Availability": {
+      "message": "周一至周五，上午9点至下午5点（EST）",
+      "title": "周一至周五，上午9点至下午5点（EST）"
+   },
+   "Balance": {
+      "message": "余额",
+      "title": "余额"
+   },
+   "Blacklist": {
+      "message": "黑名单",
+      "title": "黑名单"
+   },
+   "CaptchaList": {
+      "message": "产品",
+      "title": "产品"
+   },
+   "Captcha_Docs": {
+      "message": "所有验证码类型的全面文档",
+      "title": "所有验证码类型的全面文档"
+   },
+   "Copy": {
+      "message": "复制",
+      "title": "复制"
+   },
+   "Docs": {
+      "message": "文档",
+      "title": "文档"
+   },
+   "Documentation": {
+      "message": "文档",
+      "title": "文档"
+   },
+   "Edit": {
+      "message": "编辑",
+      "title": "编辑"
+   },
+   "Email_Support": {
+      "message": "电子邮件支持",
+      "title": "电子邮件支持"
+   },
+   "Expired": {
+      "message": "过期",
+      "title": "过期"
+   },
+   "Export_json": {
+      "message": "导出JSON",
+      "title": "导出JSON"
+   },
+   "Get_API_Key": {
+      "message": "获取API密钥",
+      "title": "获取API密钥"
+   },
+   "Guidence": {
+      "message": "指南和API参考",
+      "title": "指南和API参考"
+   },
+   "Hide": {
+      "message": "隐藏",
+      "title": "隐藏"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "API密钥余额不足",
+      "title": "API密钥余额不足"
+   },
+   "Invalid_API_Key": {
+      "message": "无效的API密钥",
+      "title": "无效的API密钥"
+   },
+   "Join_community": {
+      "message": "加入我们的社区",
+      "title": "加入我们的社区"
+   },
+   "Live_chat": {
+      "message": "实时聊天",
+      "title": "实时聊天"
+   },
+   "Menu": {
+      "message": "菜单",
+      "title": "菜单"
+   },
+   "Method_Switch": {
+      "message": "方法切换",
+      "title": "方法切换"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "针对BLS挑战的专用解决方案",
+      "title": "针对BLS挑战的专用解决方案"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "先进的AI驱动验证码解决方案",
+      "title": "先进的AI驱动验证码解决方案"
+   },
+   "Our_products": {
+      "message": "我们的产品",
+      "title": "我们的产品"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "请提供有效的API密钥以继续",
+      "title": "请提供有效的API密钥以继续"
+   },
+   "Pricing": {
+      "message": "价格",
+      "title": "价格"
+   },
+   "PrivacyPolicy": {
+      "message": "隐私政策",
+      "title": "隐私政策"
+   },
+   "Products": {
+      "message": "产品",
+      "title": "产品"
+   },
+   "Remove": {
+      "message": "删除",
+      "title": "删除"
+   },
+   "Reset": {
+      "message": "重置",
+      "title": "重置"
+   },
+   "Save": {
+      "message": "保存",
+      "title": "保存"
+   },
+   "Settings": {
+      "message": "设置",
+      "title": "设置"
+   },
+   "Show": {
+      "message": "显示",
+      "title": "显示"
+   },
+   "Social": {
+      "message": "社交",
+      "title": "社交"
+   },
+   "Start_chat": {
+      "message": "开始聊天",
+      "title": "开始聊天"
+   },
+   "Support": {
+      "message": "支持",
+      "title": "支持"
+   },
+   "Support_Nocap": {
+      "message": "支持",
+      "title": "支持"
+   },
+   "Support_Option": {
+      "message": "支持选项",
+      "title": "支持选项"
+   },
+   "Team_help": {
+      "message": "获得我们团队的直接帮助",
+      "title": "获得我们团队的直接帮助"
+   },
+   "Terms": {
+      "message": "条款",
+      "title": "条款"
+   },
+   "Toggle": {
+      "message": "开启/关闭",
+      "title": "开启/关闭"
+   },
+   "Upcoming": {
+      "message": "即将到来",
+      "title": "即将到来"
+   },
+   "View_Details": {
+      "message": "查看详情",
+      "title": "查看详情"
+   }
+}

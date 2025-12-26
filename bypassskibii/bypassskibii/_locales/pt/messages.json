@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "Documentação da API/SDK",
+      "title": "Documentação da API/SDK"
+   },
+   "API_Key_Required": {
+      "message": "Chave de API necessária para acesso",
+      "title": "Chave de API necessária para acesso"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Para usar, insira a API key.",
+      "title": "Para usar, insira a API key."
+   },
+   "Add_Credit": {
+      "message": "Adicionar crédito",
+      "title": "Adicionar crédito"
+   },
+   "Availability": {
+      "message": "Disponível de segunda a sexta, das 9h às 17h EST",
+      "title": "Disponível de segunda a sexta, das 9h às 17h EST"
+   },
+   "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+   },
+   "Blacklist": {
+      "message": "Lista Negra",
+      "title": "Lista Negra"
+   },
+   "CaptchaList": {
+      "message": "Produtos",
+      "title": "Produtos"
+   },
+   "Captcha_Docs": {
+      "message": "Documentação abrangente para todos os tipos de CAPTCHA",
+      "title": "Documentação abrangente para todos os tipos de CAPTCHA"
+   },
+   "Copy": {
+      "message": "Copiar",
+      "title": "Copiar"
+   },
+   "Docs": {
+      "message": "Documentos",
+      "title": "Documentos"
+   },
+   "Documentation": {
+      "message": "Documentação",
+      "title": "Documentação"
+   },
+   "Edit": {
+      "message": "Editar",
+      "title": "Editar"
+   },
+   "Email_Support": {
+      "message": "Suporte por e-mail",
+      "title": "Suporte por e-mail"
+   },
+   "Expired": {
+      "message": "Expirado",
+      "title": "Expirado"
+   },
+   "Export_json": {
+      "message": "Exportar JSON",
+      "title": "Exportar JSON"
+   },
+   "Get_API_Key": {
+      "message": "Obter chave",
+      "title": "Obter chave"
+   },
+   "Guidence": {
+      "message": "Guias e referências de API",
+      "title": "Guias e referências de API"
+   },
+   "Hide": {
+      "message": "Ocultar",
+      "title": "Ocultar"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Saldo insuficiente na chave de API",
+      "title": "Saldo insuficiente na chave de API"
+   },
+   "Invalid_API_Key": {
+      "message": "Chave de API inválida",
+      "title": "Chave de API inválida"
+   },
+   "Join_community": {
+      "message": "Junte-se à nossa comunidade",
+      "title": "Junte-se à nossa comunidade"
+   },
+   "Live_chat": {
+      "message": "Chat ao vivo",
+      "title": "Chat ao vivo"
+   },
+   "Menu": {
+      "message": "menu",
+      "title": "menu"
+   },
+   "Method_Switch": {
+      "message": "trocar método",
+      "title": "trocar método"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Solução especializada para desafios BLS",
+      "title": "Solução especializada para desafios BLS"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Solução avançada de CAPTCHA com IA",
+      "title": "Solução avançada de CAPTCHA com IA"
+   },
+   "Our_products": {
+      "message": "Nossos produtos",
+      "title": "Nossos produtos"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Forneça uma chave de API válida para continuar.",
+      "title": "Forneça uma chave de API válida para continuar."
+   },
+   "Pricing": {
+      "message": "Preços",
+      "title": "Preços"
+   },
+   "PrivacyPolicy": {
+      "message": "Privacidade",
+      "title": "Privacidade"
+   },
+   "Products": {
+      "message": "Produtos",
+      "title": "Produtos"
+   },
+   "Remove": {
+      "message": "Remover",
+      "title": "Remover"
+   },
+   "Reset": {
+      "message": "Redefinir",
+      "title": "Redefinir"
+   },
+   "Save": {
+      "message": "Salvar",
+      "title": "Salvar"
+   },
+   "Settings": {
+      "message": "Configurações",
+      "title": "Configurações"
+   },
+   "Show": {
+      "message": "Mostrar",
+      "title": "Mostrar"
+   },
+   "Social": {
+      "message": "Social",
+      "title": "Social"
+   },
+   "Start_chat": {
+      "message": "Iniciar chat",
+      "title": "Iniciar chat"
+   },
+   "Support": {
+      "message": "suporte",
+      "title": "suporte"
+   },
+   "Support_Nocap": {
+      "message": "Suporte",
+      "title": "Suporte"
+   },
+   "Support_Option": {
+      "message": "Opções de suporte",
+      "title": "Opções de suporte"
+   },
+   "Team_help": {
+      "message": "Obtenha ajuda direta da nossa equipe",
+      "title": "Obtenha ajuda direta da nossa equipe"
+   },
+   "Terms": {
+      "message": "Termos",
+      "title": "Termos"
+   },
+   "Toggle": {
+      "message": "ligar/desligar",
+      "title": "ligar/desligar"
+   },
+   "Upcoming": {
+      "message": "Próximos",
+      "title": "Próximos"
+   },
+   "View_Details": {
+      "message": "Ver detalhes",
+      "title": "Ver detalhes"
+   }
+}

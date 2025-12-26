@@ -1,0 +1,147 @@
+{
+  "APIKEY": "doanh48484-bb0df756-b16a-09c7-de86-f4037427e6ce",
+  "PLANTYPE": "pro",
+  "enabled": true,
+  "viewmode": "grid",
+  "theme": "light",
+  "mode": "grid",
+  "titles": [
+    "reCaptcha",
+    "BLS",
+    "geetest",
+    "MT Captcha",
+    "AWSWAF",
+    "Binance",
+    "Tiktok",
+    "ProSOPO",
+    "OCR",
+    "Lemin",
+    "Siara"
+  ],
+  "captchas": [
+    "ReCaptcha",
+    "BLS",
+    "GeeTest",
+    "MTCaptcha",
+    "AWSWAF",
+    "Binance",
+    "Tiktok",
+    "ProSOPO",
+    "OCR",
+    "Lemin",
+    "SiARA"
+  ],
+  "blacklist": ["https://www.google.com/", "https://github.com/"],
+  "forceUpdate": [
+    { "BLS": { "autoOpen": false } },
+    { "ProSOPO": { "active": false, "support": false } },
+    { "MTCaptcha": { "active": true, "support": true } }
+  ],
+  "options": {
+    "ReCaptcha": {
+      "active": true,
+      "alwaysSolve": true,
+      "autoOpen": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "clickDelay": 400,
+      "submitDelay": 1,
+      "solveModes": ["image", "audio"],
+      "support": true
+    },
+    "GeeTest": {
+      "active": true,
+      "autoOpen": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveModes": ["image"],
+      "support": true
+    },
+    "BLS": {
+      "active": true,
+      "autoOpen": false,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveModes": ["image"],
+      "support": true
+    },
+    "AWSWAF": {
+      "active": true,
+      "autoOpen": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveDelay": 2,
+      "clickDelay": 400,
+      "solveModes": ["image"],
+      "support": true
+    },
+    "Binance": {
+      "active": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveDelay": 2,
+      "clickDelay": 400,
+      "solveModes": ["image"],
+      "support": true
+    },
+    "Tiktok": {
+      "active": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveDelay": 2,
+      "clickDelay": 400,
+      "solveModes": ["image"],
+      "support": true
+    },
+    "ProSOPO": {
+      "active": false,
+      "autoOpen": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveDelay": 2,
+      "clickDelay": 400,
+      "solveModes": ["image"],
+      "support": false
+    },
+    "MTCaptcha": {
+      "active": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveModes": ["image"],
+      "support": true
+    },
+    "OCR": {
+      "active": false,
+      "autoSolve": true,
+      "solveType": "image",
+      "ocrId": {
+        "amazon": true,
+        "prodot": true
+      },
+      "solveModes": ["image"],
+      "support": false
+    },
+    "Lemin": {
+      "active": false,
+      "autoOpen": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveModes": ["image"],
+      "support": false
+    },
+    "SiARA": {
+      "active": false,
+      "autoOpen": true,
+      "autoSolve": true,
+      "solveType": "image",
+      "solveModes": ["image"],
+      "support": false
+    }
+  },
+  "local_lang": "en",
+  "customEndpoint": null,
+  "debugMode": "false",
+  "debugModeGridOnly": "false",
+  "extensionEnabled": "true",
+  "logsEnabled": "true"
+}

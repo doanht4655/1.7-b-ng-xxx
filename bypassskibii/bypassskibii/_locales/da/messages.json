@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API/SDK dokumentation",
+      "title": "API/SDK dokumentation"
+   },
+   "API_Key_Required": {
+      "message": "API-nøgle kræves for adgang",
+      "title": "API-nøgle kræves for adgang"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "For adgang, indtast API-nøgle.",
+      "title": "For adgang, indtast API-nøgle."
+   },
+   "Add_Credit": {
+      "message": "Tilføj kredit",
+      "title": "Tilføj kredit"
+   },
+   "Availability": {
+      "message": "Tilgængelig man-fre, 9-17 EST",
+      "title": "Tilgængelig man-fre, 9-17 EST"
+   },
+   "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+   },
+   "Blacklist": {
+      "message": "Sortliste",
+      "title": "Sortliste"
+   },
+   "CaptchaList": {
+      "message": "Produkter",
+      "title": "Produkter"
+   },
+   "Captcha_Docs": {
+      "message": "Omfattende dokumentation for alle captcha-typer",
+      "title": "Omfattende dokumentation for alle captcha-typer"
+   },
+   "Copy": {
+      "message": "Kopiér",
+      "title": "Kopiér"
+   },
+   "Docs": {
+      "message": "Dokumenter",
+      "title": "Dokumenter"
+   },
+   "Documentation": {
+      "message": "Dokumentation",
+      "title": "Dokumentation"
+   },
+   "Edit": {
+      "message": "Rediger",
+      "title": "Rediger"
+   },
+   "Email_Support": {
+      "message": "E-mail support",
+      "title": "E-mail support"
+   },
+   "Expired": {
+      "message": "Udløbet",
+      "title": "Udløbet"
+   },
+   "Export_json": {
+      "message": "Eksportér JSON",
+      "title": "Eksportér JSON"
+   },
+   "Get_API_Key": {
+      "message": "Hent nøgle",
+      "title": "Hent nøgle"
+   },
+   "Guidence": {
+      "message": "Guides og API-referencer",
+      "title": "Guides og API-referencer"
+   },
+   "Hide": {
+      "message": "Skjul",
+      "title": "Skjul"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Utilstrækkelig API-nøglesaldo",
+      "title": "Utilstrækkelig API-nøglesaldo"
+   },
+   "Invalid_API_Key": {
+      "message": "Ugyldig API-nøgle",
+      "title": "Ugyldig API-nøgle"
+   },
+   "Join_community": {
+      "message": "Deltag i vores fællesskab",
+      "title": "Deltag i vores fællesskab"
+   },
+   "Live_chat": {
+      "message": "Live chat",
+      "title": "Live chat"
+   },
+   "Menu": {
+      "message": "menu",
+      "title": "menu"
+   },
+   "Method_Switch": {
+      "message": "metode skift",
+      "title": "metode skift"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "Specialiseret løser til BLS-udfordringer",
+      "title": "Specialiseret løser til BLS-udfordringer"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "Avanceret AI-drevet captcha-løsning",
+      "title": "Avanceret AI-drevet captcha-løsning"
+   },
+   "Our_products": {
+      "message": "Vores produkter",
+      "title": "Vores produkter"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Angiv venligst en gyldig API-nøgle",
+      "title": "Angiv venligst en gyldig API-nøgle"
+   },
+   "Pricing": {
+      "message": "Priser",
+      "title": "Priser"
+   },
+   "PrivacyPolicy": {
+      "message": "Privatliv",
+      "title": "Privatliv"
+   },
+   "Products": {
+      "message": "Produkter",
+      "title": "Produkter"
+   },
+   "Remove": {
+      "message": "Fjern",
+      "title": "Fjern"
+   },
+   "Reset": {
+      "message": "Nulstil",
+      "title": "Nulstil"
+   },
+   "Save": {
+      "message": "Gem",
+      "title": "Gem"
+   },
+   "Settings": {
+      "message": "Indstillinger",
+      "title": "Indstillinger"
+   },
+   "Show": {
+      "message": "Vis",
+      "title": "Vis"
+   },
+   "Social": {
+      "message": "Social",
+      "title": "Social"
+   },
+   "Start_chat": {
+      "message": "Start chat",
+      "title": "Start chat"
+   },
+   "Support": {
+      "message": "support",
+      "title": "support"
+   },
+   "Support_Nocap": {
+      "message": "Support",
+      "title": "Support"
+   },
+   "Support_Option": {
+      "message": "Supportmuligheder",
+      "title": "Supportmuligheder"
+   },
+   "Team_help": {
+      "message": "Få direkte hjælp fra vores team",
+      "title": "Få direkte hjælp fra vores team"
+   },
+   "Terms": {
+      "message": "Vilkår",
+      "title": "Vilkår"
+   },
+   "Toggle": {
+      "message": "tænd/sluk",
+      "title": "tænd/sluk"
+   },
+   "Upcoming": {
+      "message": "Kommende",
+      "title": "Kommende"
+   },
+   "View_Details": {
+      "message": "Se detaljer",
+      "title": "Se detaljer"
+   }
+}

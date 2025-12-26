@@ -1,0 +1,130 @@
+{
+   "API_Key_Required": {
+      "message": "API-avain vaaditaan pääsyyn",
+      "title": "API-avain vaaditaan pääsyyn"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "Lisää API-avain päästäksesi.",
+      "title": "Lisää API-avain päästäksesi."
+   },
+   "Add_Credit": {
+      "message": "Lisää saldoa",
+      "title": "Lisää saldoa"
+   },
+   "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+   },
+   "Blacklist": {
+      "message": "Estetty",
+      "title": "Estetty"
+   },
+   "CaptchaList": {
+      "message": "Tuotteet",
+      "title": "Tuotteet"
+   },
+   "Copy": {
+      "message": "Kopioi",
+      "title": "Kopioi"
+   },
+   "Edit": {
+      "message": "Muokkaa",
+      "title": "Muokkaa"
+   },
+   "Expired": {
+      "message": "Vanhenemassa",
+      "title": "Vanhenemassa"
+   },
+   "Export_json": {
+      "message": "Vie JSON",
+      "title": "Vie JSON"
+   },
+   "Get_API_Key": {
+      "message": "Hae avain",
+      "title": "Hae avain"
+   },
+   "Hide": {
+      "message": "Piilota",
+      "title": "Piilota"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "Riittämätön API-avaimen saldo",
+      "title": "Riittämätön API-avaimen saldo"
+   },
+   "Invalid_API_Key": {
+      "message": "Virheellinen API-avain",
+      "title": "Virheellinen API-avain"
+   },
+   "Menu": {
+      "message": "valikko",
+      "title": "valikko"
+   },
+   "Method_Switch": {
+      "message": "menetelmän vaihto",
+      "title": "menetelmän vaihto"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "Anna kelvollinen API-avain jatkaaksesi",
+      "title": "Anna kelvollinen API-avain jatkaaksesi"
+   },
+   "PrivacyPolicy": {
+      "message": "Tietosuoja",
+      "title": "Tietosuoja"
+   },
+   "Products": {
+      "message": "Tuotteet",
+      "title": "Tuotteet"
+   },
+   "Remove": {
+      "message": "Poista",
+      "title": "Poista"
+   },
+   "Reset": {
+      "message": "Nollaa",
+      "title": "Nollaa"
+   },
+   "Save": {
+      "message": "Tallenna",
+      "title": "Tallenna"
+   },
+   "Settings": {
+      "message": "Asetukset",
+      "title": "Asetukset"
+   },
+   "Show": {
+      "message": "Näytä",
+      "title": "Näytä"
+   },
+   "Social": {
+      "message": "Sosiaalinen",
+      "title": "Sosiaalinen"
+   },
+   "Support": {
+      "message": "tuki",
+      "title": "tuki"
+   },
+   "Support_Nocap": {
+      "message": "Tuki",
+      "title": "Tuki"
+   },
+   "Terms": {
+      "message": "Ehdot",
+      "title": "Ehdot"
+   },
+   "Toggle": {
+      "message": "päälle/pois",
+      "title": "päälle/pois"
+   },
+   "Upcoming": {
+      "message": "Tulevat",
+      "title": "Tulevat"
+   },
+   "View_Details": {
+      "message": "Näytä tiedot",
+      "title": "Näytä tiedot"
+   }
+}

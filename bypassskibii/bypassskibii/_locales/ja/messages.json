@@ -1,0 +1,198 @@
+{
+   "API": {
+      "message": "API",
+      "title": "API"
+   },
+   "API_Docs": {
+      "message": "API/SDKドキュメント",
+      "title": "API/SDKドキュメント"
+   },
+   "API_Key_Required": {
+      "message": "アクセスにはAPIキーが必要です",
+      "title": "アクセスにはAPIキーが必要です"
+   },
+   "API_SDK": {
+      "message": "API/SDK",
+      "title": "API/SDK"
+   },
+   "Access_this_feature": {
+      "message": "APIキーを追加してください。",
+      "title": "APIキーを追加してください。"
+   },
+   "Add_Credit": {
+      "message": "クレジットを追加",
+      "title": "クレジットを追加"
+   },
+   "Availability": {
+      "message": "月〜金 9時〜17時 EST対応",
+      "title": "月〜金 9時〜17時 EST対応"
+   },
+   "Balance": {
+      "message": "残高",
+      "title": "残高"
+   },
+   "Blacklist": {
+      "message": "ブラックリスト",
+      "title": "ブラックリスト"
+   },
+   "CaptchaList": {
+      "message": "製品",
+      "title": "製品"
+   },
+   "Captcha_Docs": {
+      "message": "すべてのキャプチャタイプの包括的なドキュメント",
+      "title": "すべてのキャプチャタイプの包括的なドキュメント"
+   },
+   "Copy": {
+      "message": "コピー",
+      "title": "コピー"
+   },
+   "Docs": {
+      "message": "ドキュメント",
+      "title": "ドキュメント"
+   },
+   "Documentation": {
+      "message": "ドキュメント",
+      "title": "ドキュメント"
+   },
+   "Edit": {
+      "message": "編集",
+      "title": "編集"
+   },
+   "Email_Support": {
+      "message": "メールサポート",
+      "title": "メールサポート"
+   },
+   "Expired": {
+      "message": "期限切れ",
+      "title": "期限切れ"
+   },
+   "Export_json": {
+      "message": "JSONをエクスポート",
+      "title": "JSONをエクスポート"
+   },
+   "Get_API_Key": {
+      "message": "APIキーを取得",
+      "title": "APIキーを取得"
+   },
+   "Guidence": {
+      "message": "ガイドとAPIリファレンス",
+      "title": "ガイドとAPIリファレンス"
+   },
+   "Hide": {
+      "message": "非表示",
+      "title": "非表示"
+   },
+   "Insufficient_API_Key_Balance": {
+      "message": "APIキーの残高不足",
+      "title": "APIキーの残高不足"
+   },
+   "Invalid_API_Key": {
+      "message": "無効なAPIキー",
+      "title": "無効なAPIキー"
+   },
+   "Join_community": {
+      "message": "コミュニティに参加",
+      "title": "コミュニティに参加"
+   },
+   "Live_chat": {
+      "message": "ライブチャット",
+      "title": "ライブチャット"
+   },
+   "Menu": {
+      "message": "メニュー",
+      "title": "メニュー"
+   },
+   "Method_Switch": {
+      "message": "方法切替",
+      "title": "方法切替"
+   },
+   "Nocaptcha_BLS_Title": {
+      "message": "BLSチャレンジ専用ソルバー",
+      "title": "BLSチャレンジ専用ソルバー"
+   },
+   "Nocaptcha_OCR_Title": {
+      "message": "高度なAI駆動のキャプチャ解決",
+      "title": "高度なAI駆動のキャプチャ解決"
+   },
+   "Our_products": {
+      "message": "私たちの製品",
+      "title": "私たちの製品"
+   },
+   "Please_provide_a_valid_API_Key": {
+      "message": "続行するには有効なAPIキーを提供してください",
+      "title": "続行するには有効なAPIキーを提供してください"
+   },
+   "Pricing": {
+      "message": "価格",
+      "title": "価格"
+   },
+   "PrivacyPolicy": {
+      "message": "プライバシー",
+      "title": "プライバシー"
+   },
+   "Products": {
+      "message": "製品",
+      "title": "製品"
+   },
+   "Remove": {
+      "message": "削除",
+      "title": "削除"
+   },
+   "Reset": {
+      "message": "リセット",
+      "title": "リセット"
+   },
+   "Save": {
+      "message": "保存",
+      "title": "保存"
+   },
+   "Settings": {
+      "message": "設定",
+      "title": "設定"
+   },
+   "Show": {
+      "message": "表示",
+      "title": "表示"
+   },
+   "Social": {
+      "message": "ソーシャル",
+      "title": "ソーシャル"
+   },
+   "Start_chat": {
+      "message": "チャットを開始",
+      "title": "チャットを開始"
+   },
+   "Support": {
+      "message": "サポート",
+      "title": "サポート"
+   },
+   "Support_Nocap": {
+      "message": "サポート",
+      "title": "サポート"
+   },
+   "Support_Option": {
+      "message": "サポートオプション",
+      "title": "サポートオプション"
+   },
+   "Team_help": {
+      "message": "チームから直接サポートを受ける",
+      "title": "チームから直接サポートを受ける"
+   },
+   "Terms": {
+      "message": "利用規約",
+      "title": "利用規約"
+   },
+   "Toggle": {
+      "message": "オン/オフ",
+      "title": "オン/オフ"
+   },
+   "Upcoming": {
+      "message": "今後",
+      "title": "今後"
+   },
+   "View_Details": {
+      "message": "詳細を見る",
+      "title": "詳細を見る"
+   }
+}
